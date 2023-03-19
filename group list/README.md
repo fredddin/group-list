@@ -1,6 +1,6 @@
 # Group List
 
-<img src="grouplist/.github/preview.jpg" />
+<img src=".github/preview.jpg"/>
 
 ## Technology stack
 
